@@ -1,0 +1,4 @@
+name: "dev_web"
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+dependencies: { chalkdart: ^2.0.8, dart_express: ^0.5.3 }
