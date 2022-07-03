@@ -2,7 +2,7 @@ import 'package:dart_express/dart_express.dart';
 import './lib/logger.dart';
 import './routes/router.dart';
 
-main() {
+void main() {
   final app = express();
 
   app.set('print routes', true);
